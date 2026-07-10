@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bayaris.github.io/sitemap.xml
